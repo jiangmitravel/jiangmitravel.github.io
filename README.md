@@ -17,7 +17,7 @@ A browser new tab extension featuring stunning views of the Great Wall of China.
 - **Features**:
   - 10 curated high-quality Great Wall images
   - Random background rotation
-  - Clean clock and search interface
+  - Clean clock interface
   - Lightweight and privacy-focused
 
 ### 2. Beijing Food Menu Image Processor
